@@ -69,71 +69,21 @@ http://q.gs/11042797/whasa-604270509-iptv1-m3u8
 #EXTINF:-0 tvg-name="" tvg-logo="http://verlatelegratis.com/wp-content/uploads/2015/08/beinsportesp.png" group-title="Televisión Digital Terreste",bein ñ Latino HD
 http://q.gs/11042797/whasa-604270509-iptv2-m3u8
 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/0500d355696ec8528e6675476ca86121" group-title="Televisión Digital Terreste",Abono Futbol 1 SD 1
-http://q.gs/11042797/whasa-604270509-iptv3-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/0500d355696ec8528e6675476ca86121" group-title="Televisión Digital Terreste",Abono Futbol 1 HD 1
-http://q.gs/11042797/whasa-604270509-iptv4-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/d89cbca2bb6fcef335d93af89d5ea609" group-title="Televisión Digital Terreste",Abono Futbol 1 SD
-http://q.gs/11042797/whasa-604270509-iptv5-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/d89cbca2bb6fcef335d93af89d5ea609" group-title="Televisión Digital Terreste",Abono Futbol 1 HD
-http://q.gs/11042797/whasa-604270509-iptv6-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/8bf8e74ff1564ba308c5b184782a0dab" group-title="Televisión Digital Terreste",Abono Futbol Multi SD
-http://q.gs/11042797/whasa-604270509-iptv7-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://www.mundoplus.tv/img/8bf8e74ff1564ba308c5b184782a0dab" group-title="Televisión Digital Terreste",Abono Futbol Multi HD
-http://q.gs/11042797/whasa-604270509-iptv8-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports HD
-http://tedilive-aka-pub.telecable.es/akamai/04/03.m3u8
 
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports SD
-http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.mundoplus.tv/img/4e750cbd6d4ac0fbdbfc6a3de1a359bf" group-title="Televisión Digital Terreste",Canal +Liga 2
+rtmp://149.255.39.10/pull/liga258?keys=jErjVFHpR5wjdwh_Fs-_rQ&keyt=1447034042 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax1.png" group-title="Televisión Digital Terreste",bein Sports 1 HD
-http://tedilive-aka-pub.telecable.es/akamai/05/03.m3u8
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.mundoplus.tv/img/87548a84b268be17d2f79adf79a37290" group-title="Televisión Digital Terreste",Canal +Liga 2A
+rtmp://80.82.64.248/pull/lig2a?keys=H3sLLlak2rVUW7S-Fpor4A&keyt=1447033994 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax1.png" group-title="Televisión Digital Terreste",bein Sports 1 SD
-http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.mundoplus.tv/img/298cf38829b36df068103896337c8b91" group-title="Televisión Digital Terreste",Canal +Liga 2B
+rtmp://31.220.0.196/pull/lig2b?keys=RBHHud07q1BOYxTHb0V5vA&keyt=1447033944 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax2.png" group-title="Televisión Digital Terreste",bein Sports 2 HD
-http://tedilive-aka-pub.telecable.es/akamai/06/03.m3u8
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/C4.png" group-title="Televisión Digital Terreste",Canal +Liga 2C
+rtmp://31.220.2.55/pull/lig2c?keys=xZcgjfvDu4NDLBFmta3UyA&keyt=1447033890 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax2.png" group-title="Televisión Digital Terreste",bein Sports 2 SD
-http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports 3
-http://q.gs/11042797/whasa-604270509-iptv13-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax3.png" group-title="Televisión Digital Terreste",bein Sports 3 SD
-http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports 4
-http://q.gs/11042797/whasa-604270509-iptv14-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax4.png" group-title="Televisión Digital Terreste",bein Sports 4 SD
-http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports 5
-http://q.gs/11042797/whasa-604270509-iptv15-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax5.png" group-title="Televisión Digital Terreste",bein Sports 5 SD
-http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports 6
-http://q.gs/11042797/whasa-604270509-iptv16-m3u8
- 
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax6.png" group-title="Televisión Digital Terreste",bein Sports 6 SD
-http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports 7
-http://q.gs/11042797/whasa-604270509-iptv17-m3u8
-
-#EXTINF:-0 tvg-name="" tvg-logo="http://tugoleada.com/img/BeINmax7.png" group-title="Televisión Digital Terreste",bein Sports 7 SD
-http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.mundoplus.tv/img/022eef2d632fa91f84829625c36c5f32" group-title="Televisión Digital Terreste",Canal +Liga 2D
+rtmp://31.220.0.72/pull/lig2c?keys=j8T5pJxW6eEVsndVkEoE4g&keyt=1447033788 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-0 tvg-name="" tvg-logo="http://verlatelegratis.com/wp-content/uploads/2015/08/beinsportesp.png" group-title="Televisión Digital Terreste",
 rtmp://31.220.0.204/pull/tvbein12?keys=HOdexPnDo30zYsCOVAJHRQ&keyt=1446575029 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
